@@ -1,0 +1,4 @@
+{
+    "ignore": ["venv"],
+    "ignore_dots": true
+}
